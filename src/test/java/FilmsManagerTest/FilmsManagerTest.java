@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 public class FilmsManagerTest {
-    FilmsManager manager = new FilmsManager(6); // выстроим лимит и погнали
+    FilmsManager manager = new FilmsManager(7); // выстроим лимит и погнали
 
 
     @Test
